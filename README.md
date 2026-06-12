@@ -10,7 +10,6 @@
 * Sleep hours
 * Exercise duration
 * Type of exercise
-* Energy level 
 * Stress level
 * Productivity score
   
@@ -32,7 +31,6 @@
 * Clean data (remove errors/missing values)
 * Perform EDA (analysis)
 * Visualize results using graphs
-* Draw insights
 
 ## **6) Benefits**
 * Improves health awareness
@@ -46,5 +44,3 @@
 * Boosts mental and physical fitness
 * Increases energy and focus
 * Helps maintain a healthy lifestyle.
-
-
